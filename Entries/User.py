@@ -9,6 +9,3 @@ class User:
         # obtain variables object using get 
         print("Name:", self.name)
         print("Alias:", self.alias)
-
-user = User(name = "Christian Bale", alias = "Batman")
-user.display_info()
